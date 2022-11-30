@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71b1d1bb.css",
+    "main.js": "/static/js/main.ddadedd8.js",
+    "static/css/930.d74b2e1d.chunk.css": "/static/css/930.d74b2e1d.chunk.css",
+    "static/js/930.733d2191.chunk.js": "/static/js/930.733d2191.chunk.js",
+    "static/css/842.1a3cd692.chunk.css": "/static/css/842.1a3cd692.chunk.css",
+    "static/js/842.6de6b73d.chunk.js": "/static/js/842.6de6b73d.chunk.js",
+    "static/css/43.af73867c.chunk.css": "/static/css/43.af73867c.chunk.css",
+    "static/js/43.c23a8d55.chunk.js": "/static/js/43.c23a8d55.chunk.js",
+    "static/css/684.38f2cc49.chunk.css": "/static/css/684.38f2cc49.chunk.css",
+    "static/js/684.fdf6e66a.chunk.js": "/static/js/684.fdf6e66a.chunk.js",
+    "static/css/785.81844063.chunk.css": "/static/css/785.81844063.chunk.css",
+    "static/js/785.80a82212.chunk.js": "/static/js/785.80a82212.chunk.js",
+    "static/js/233.23a4a1f8.chunk.js": "/static/js/233.23a4a1f8.chunk.js",
+    "index.html": "/index.html",
+    "main.71b1d1bb.css.map": "/static/css/main.71b1d1bb.css.map",
+    "main.ddadedd8.js.map": "/static/js/main.ddadedd8.js.map",
+    "930.d74b2e1d.chunk.css.map": "/static/css/930.d74b2e1d.chunk.css.map",
+    "930.733d2191.chunk.js.map": "/static/js/930.733d2191.chunk.js.map",
+    "842.1a3cd692.chunk.css.map": "/static/css/842.1a3cd692.chunk.css.map",
+    "842.6de6b73d.chunk.js.map": "/static/js/842.6de6b73d.chunk.js.map",
+    "43.af73867c.chunk.css.map": "/static/css/43.af73867c.chunk.css.map",
+    "43.c23a8d55.chunk.js.map": "/static/js/43.c23a8d55.chunk.js.map",
+    "684.38f2cc49.chunk.css.map": "/static/css/684.38f2cc49.chunk.css.map",
+    "684.fdf6e66a.chunk.js.map": "/static/js/684.fdf6e66a.chunk.js.map",
+    "785.81844063.chunk.css.map": "/static/css/785.81844063.chunk.css.map",
+    "785.80a82212.chunk.js.map": "/static/js/785.80a82212.chunk.js.map",
+    "233.23a4a1f8.chunk.js.map": "/static/js/233.23a4a1f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71b1d1bb.css",
+    "static/js/main.ddadedd8.js"
+  ]
+}
